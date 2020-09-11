@@ -1,0 +1,15 @@
+.hello{
+  background-image:url(img/sungirl.jpg);
+  background-size: cover;
+}
+hr{
+  border: 0.5px solid
+}
+#h{
+  font-family: sans-serif;
+  padding-top: 50px;
+}
+#h2{
+  font-style: italic;
+  font-family: serif sans-serif;
+}
